@@ -15,8 +15,12 @@
      height: 50PX;
  }
   ul,li { list-style:none;
+    
   }
- 
+  a{
+    text-decoration: none;
+  }
+
   #image-main {
     width: 400px;
     padding-top: 20px;
