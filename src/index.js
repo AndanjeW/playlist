@@ -17,3 +17,12 @@ let showPlayList = () => {
 
 // Adding click event listener
 actionButton.addEventListener("click", showPlayList);
+
+
+
+
+
+
+
+
+
